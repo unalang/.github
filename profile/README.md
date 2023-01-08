@@ -1,2 +1,2 @@
 ### Coming soon to an IDE near you...
-Una is an OOP-based programming language written in C#. Loads more information is coming soon! The language is currently closed-source but will be open-sourced once it enters alpha.
+Una is an OOP-based programming language written in C#. A lot more information about its capabilities and ecosystem is coming soon, but it's in very early stages. The language is currently closed-source but will be open-sourced once it enters alpha.
